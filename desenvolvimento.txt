@@ -1,0 +1,25 @@
+-Boas vindas ao cliente
+-Informar para o cliente informar o nome
+
+cadastro
+
+-Informar ao cliente para fazer o cadastro
+-Receber o nome de usuário
+-Receber a senha
+
+login
+
+-Nome de usuário
+-Senha:
+
+CARDÁPIO
+CARDÁPIO COM 5 LANCHES, 5 BEBIDAS E 5 sorvetes
+-O cliente pode fazer somente um pedido se ele quiser, não é necessário pedir um de cada.
+
+-Receber o pedidos do lanche 
+-Receber o pedido da bebida  
+-Receber o pedido do sorvete 
+
+-Finalizando o pedido é necessário que o cliente informe a cidade, o bairro a rua e o número da casa para a entrega do pedido 
+
+-O sistema precisa receber essas informações para a entrega.
